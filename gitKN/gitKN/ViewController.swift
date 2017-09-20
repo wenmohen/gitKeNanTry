@@ -16,6 +16,7 @@ class ViewController: UIViewController {
 print("你好")
         print("werwe")
          print("8183818")
+           print("sf")
 
     
     }
